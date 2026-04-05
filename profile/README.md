@@ -2,6 +2,10 @@
   
 <img width="400" height="400" alt="7a7cb8b3-bc24-4504-ae21-5f51d756f797" src="https://github.com/user-attachments/assets/7d377be3-f66b-46a5-907d-488e80c08cf7" />
 
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=32&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=BizAnalyticsAI;Sales+Intelligence+Platform;Business+Analytics+%2B+AI" alt="BizAnalyticsAI" />
+</h1>
+
 # BizAnalyticsAI
 
 **Enterprise SaaS Platform for Business Intelligence, Predictive Analytics & AI-Powered Decision Making**
