@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/logo.png" alt="BizAnalyticsAI Logo" width="90" height="90" />
+<img src="https://github.com/organizations/ltd2026-1/settings/profile" alt="BizAnalyticsAI Logo" width="90" height="90" />
 
 # BizAnalyticsAI
 
