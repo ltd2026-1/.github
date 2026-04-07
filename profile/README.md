@@ -23,7 +23,7 @@
 <p align="center">
   <a href="README.md"><img src="https://img.shields.io/badge/🇧🇷_Português-ativo-7c3aed?style=for-the-badge" alt="Português" /></a>&nbsp;
   <a href="https://github.com/ltd2026-1/.github/blob/main/README-traducao/README-en.md"><img src="https://img.shields.io/badge/🇺🇸_English-translation-6b7280?style=for-the-badge" alt="English" /></a>&nbsp;
-  <a href="README-traducao/README-es.md"><img src="https://img.shields.io/badge/🇪🇸_Español-traducción-6b7280?style=for-the-badge" alt="Español" /></a>
+  <a href="https://github.com/ltd2026-1/.github/blob/main/README-traducao/README-es.md"><img src="https://img.shields.io/badge/🇪🇸_Español-traducción-6b7280?style=for-the-badge" alt="Español" /></a>
 </p>
 
 <br/>
