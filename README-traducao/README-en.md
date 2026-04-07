@@ -1,10 +1,8 @@
 <div align="center">
+  
+<img width="400" height="400" alt="7a7cb8b3-bc24-4504-ae21-5f51d756f797" src="https://github.com/user-attachments/assets/7d377be3-f66b-46a5-907d-488e80c08cf7" />
+<div align="center">
 
-<br/>
-
-<img src="../public/logo.png" alt="BizAnalyticsAI Logo" width="110" height="110" style="border-radius: 20px;" />
-
-<br/>
 <br/>
 
 <h1>
